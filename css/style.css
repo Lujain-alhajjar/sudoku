@@ -63,7 +63,9 @@ strong{
     transform: translateY(-50%);
 }
 .body{
-    width: 100%;
+    text-align: center;
+    padding-left: 15%;
+    width: 75%;
     height: 75vh;
     border: var(--main-color) solid 2px;
     margin-top: 5px;
